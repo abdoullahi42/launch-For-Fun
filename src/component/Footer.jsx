@@ -24,7 +24,7 @@ const Footer = () => {
               <span className="ml-3 text-xl font-bold">Launch For Fun</span>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
-              A community for degens launching meme tokens every weekend at 21:00 UTC.
+              A community for degens launching meme tokens every Monday and Thursday at 21:00 UTC.
             </p>
           </motion.div>
 
@@ -55,11 +55,11 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-300">
               <li className="flex items-center">
                 <span className="w-2 h-2 bg-[#3e80ff] rounded-full mr-2"></span>
-                Saturday • 21:00 UTC
+                Monday • 21:00 UTC
               </li>
               <li className="flex items-center">
                 <span className="w-2 h-2 bg-[#3e80ff] rounded-full mr-2"></span>
-                Sunday • 21:00 UTC
+                Thursday • 21:00 UTC
               </li>
             </ul>
           </motion.div>

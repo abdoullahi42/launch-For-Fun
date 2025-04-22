@@ -6,7 +6,7 @@ const HowItWorks = () => {
       number: 1,
       title: "Token Generation Event (TGE)",
       description:
-        "Every Saturday and Sunday at 21:00 UTC European Time, we launch new meme tokens. The contract address is shared with our Telegram group and X community.",
+        "Every Monday and Thursday at 21:00 UTC European Time, we launch new meme tokens. The contract address is shared with our Telegram group and X community.",
     },
     {
       number: 2,

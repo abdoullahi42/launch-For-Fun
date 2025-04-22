@@ -35,9 +35,11 @@ const OurStory = () => {
               <span className="text-[#3e80ff] text-xl font-bold">1</span>
             </div>
             <div className="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-              <h3 className="text-2xl font-bold text-[#24126a] mb-3">The Beginning</h3>
+              <h3 className="text-2xl font-bold text-[#24126a] mb-3">Who We Are 
+              </h3>
               <p className="text-gray-600 leading-relaxed">
-                We began as a team of three, driven to create a launch community that empowers innovators with groundbreaking token ideas. Our initial goal was to provide a supportive ecosystem, <a href="https://mooncolins.com" className="text-[#3e80ff] hover:underline">MoonColins</a>, where projects could thrive under our brand identity.
+              We're Launch For Fun—a launch community, and our journey is all about embracing the thrill of the unknown and the power of community to create possibilities. We've been on a wild ride, learning from our experiences and growing into a launch community that's all about fun, creativity, and networking.
+
               </p>
             </div>
           </motion.div>
@@ -54,9 +56,11 @@ const OurStory = () => {
               <span className="text-[#ff6b6b] text-xl font-bold">2</span>
             </div>
             <div className="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-              <h3 className="text-2xl font-bold text-[#24126a] mb-3">Overcoming Challenges</h3>
+              <h3 className="text-2xl font-bold text-[#24126a] mb-3">The Meme Culture In Us 
+              </h3>
               <p className="text-gray-600 leading-relaxed">
-                Our flagship token, $MQUEEN, achieved success, but we soon faced tough business decisions that led to divisions. Despite another attempt with $MCCT, a community-driven project, we encountered further challenges that reshaped our path.
+              We're stoked about the memecoin culture and its potential to bring people together. That's why we're launching tokens every Monday and Thursday at 21:00 UTC (and soon, daily). It's not just about the tokens – it's about the community, the excitement, the fun, and the possibilities to profit or learn in a fun and dynamic environment.
+
               </p>
             </div>
           </motion.div>
@@ -73,15 +77,16 @@ const OurStory = () => {
               <span className="text-[#4ecdc4] text-xl font-bold">3</span>
             </div>
             <div className="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-              <h3 className="text-2xl font-bold text-[#24126a] mb-3">A New Chapter</h3>
+              <h3 className="text-2xl font-bold text-[#24126a] mb-3">Join the Party 
+              </h3>
               <p className="text-gray-600 leading-relaxed">
-                We've transformed into <span className="font-bold text-[#24126a]">Launch For Fun</span>, embracing memecoin culture with regular token launches. Starting every Saturday and Sunday at 21:00 UTC (soon daily), we've created a space where degens can participate in fair launches of tokens with zero use cases - pure fun, profit, or learning.
+              At Launch For Fun, we're all about creating a space where people can come together, share ideas, and have a blast. We're not just launching tokens; we're building a community that's all about positivity, money making party, and good vibes. So, what are you waiting for? Join us in the party ground for pure fun, profit, and learning.
               </p>
               <motion.button
                 whileHover={{ scale: 1.03 }}
                 whileTap={{ scale: 0.97 }}
                 className="mt-6 bg-[#3e80ff] hover:bg-[#3369d6] text-white font-semibold px-6 py-2 rounded-full transition-all"
-                onClick={() => window.open("https://t.me/mooncolinsprojects" , "_blank")}
+                onClick={() => window.open("https://t.me/launchforfunproject" , "_blank")}
               >
                 Join Our Journey
               </motion.button>

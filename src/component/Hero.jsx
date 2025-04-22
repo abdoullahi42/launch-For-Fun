@@ -16,14 +16,14 @@ const Hero = () => {
               Let's Launch It For Fun On Pump.fun!
             </h1>
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed">
-              Launch For Fun (formerly, MoonColins) is a launch community for degens that launch meme tokens every Saturday and Sunday at 21:00 UTC European Time. It's a chance to profit or learn in a fun and dynamic environment.
+              Launch For Fun  is a launch community for degens that launch meme tokens every Monday and thursday at 21:00 UTC European Time. It's a chance to profit or learn in a fun and dynamic environment.
             </p>
             <div className="flex justify-center md:justify-start">
   <motion.button
     whileHover={{ scale: 1.05 }}
     whileTap={{ scale: 0.95 }}
     className="bg-[#3e80ff] hover:bg-blue-600 text-white font-semibold px-8 py-3 rounded-full transition-all duration-300"
-    onClick={() => window.open("https://t.me/mooncolinsprojects" , "_blank")}
+    onClick={() => window.open("https://t.me/launchforfunproject" , "_blank")}
   >
     Join Now
   </motion.button>

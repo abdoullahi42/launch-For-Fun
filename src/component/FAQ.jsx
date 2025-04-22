@@ -7,15 +7,15 @@ const FAQ = () => {
   const faqs = [
     {
       question: "What is Launch For Fun?",
-      answer: "Launch For Fun is a launch community for degens that launches meme tokens every Saturday and Sunday at 21:00 UTC European Time."
+      answer: "Launch For Fun is a launch community for degens that launches meme tokens every Monday and Thursday at 21:00 UTC European Time."
     },
     {
       question: "When do token launches happen?",
-      answer: "Token launches occur every Saturday and Sunday at 21:00 UTC European Time, with plans to expand to daily launches in the future."
+      answer: "Token launches occur every Monday and Thursday at 21:00 UTC European Time, with plans to expand to daily launches in the future."
     },
     {
       question: "How does the Token Generation Event (TGE) work?",
-      answer: "TGE happens every Saturday and Sunday, where the contract address is shared with the Telegram group and X community."
+      answer: "TGE happens every Monday and Thursday, where the contract address is shared with the Telegram group and X community."
     },
     {
       question: "What is the tokenomics of Launch For Fun?",
@@ -31,7 +31,7 @@ const FAQ = () => {
     },
     {
       question:"What is the story behind Launch For Fun?",
-      answers:"Launch For Fun evolved from MoonColins, a launch community that faced challenges and transformed into a new approach focused on regular token launches."
+      answer:"Launch For Fun evolved from MoonColins, a launch community that faced challenges and transformed into a new approach focused on regular token launches."
     },
     {
       question:"What are the benefits of participating in Launch For Fun?",
