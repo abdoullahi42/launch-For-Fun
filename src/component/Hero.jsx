@@ -16,7 +16,7 @@ const Hero = () => {
               Let's Launch It For Fun On Pump.fun!
             </h1>
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed">
-              Launch For Fun  is a launch community for degens that launch meme tokens every Monday and thursday at 21:00 UTC European Time. It's a chance to profit or learn in a fun and dynamic environment.
+              Launch For Fun  is a launch community for degens that launch meme tokens every Monday and Thursday at 21:00 UTC European Time. It's a chance to profit or learn in a fun and dynamic environment.
             </p>
             <div className="flex justify-center md:justify-start">
   <motion.button

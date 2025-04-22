@@ -31,7 +31,7 @@ const FAQ = () => {
     },
     {
       question:"What is the story behind Launch For Fun?",
-      answer:"Launch For Fun evolved from MoonColins, a launch community that faced challenges and transformed into a new approach focused on regular token launches."
+      answer:"Launch For Fun evolved from Project, a launch community that faced challenges and transformed into a new approach focused on regular token launches."
     },
     {
       question:"What are the benefits of participating in Launch For Fun?",

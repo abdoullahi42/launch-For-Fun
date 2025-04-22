@@ -85,7 +85,7 @@ const Footer = () => {
 
               {/* Telegram Icon */}
               <motion.a 
-                href="https://t.me/mooncolinsprojects" 
+                href="https://t.me/launchforfunproject" 
                 whileHover={{ scale: 1.1 }}
                 className="bg-[#0c0c14] hover:bg-[#3e80ff] w-10 h-10 rounded-full flex items-center justify-center transition-colors"
                 aria-label="Join Telegram"
